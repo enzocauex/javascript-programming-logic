@@ -1,2 +1,3 @@
-# javascript-programming-logic
- Trechos de código de lógica de programação com JavaScript
+# Lógica de Programação - JavaScript
+    ## Trechos de código de lógica de programação com JavaScript
+
